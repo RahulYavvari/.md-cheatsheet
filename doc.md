@@ -28,9 +28,9 @@ ___
 > This is a quote
 
 <!-- Links -->
-[Traversy Media](http://www.traversymedia.com)
+[Google](https://www.google.com)
 
-[Traversy Media](http://www.traversymedia.com "Traversy Media")
+[Google](https://www.google.com "Google")
 
 <!-- UL -->
 * Item 1
@@ -73,8 +73,8 @@ ___
 <!-- Tables -->
 | Name     | Email          |
 | -------- | -------------- |
-| John Doe | john@gmail.com |
-| Jane Doe | jane@gmail.com |
+| Jack Mao | Jack@gmail.com |
+| Jane Mao | jane@gmail.com |
 
 <!-- Task List -->
 * [x] Task 1
